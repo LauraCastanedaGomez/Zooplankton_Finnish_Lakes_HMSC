@@ -1,0 +1,32 @@
+MCMC Convergence statistics
+
+
+ ./models/models_thin_1_samples_5_chains_4.Rdata 
+
+
+ zoo.pa.model 
+
+
+ ./models/models_thin_1_samples_250_chains_4.Rdata 
+
+
+ zoo.pa.model 
+
+
+ ./models/models_thin_10_samples_250_chains_4.Rdata 
+
+
+ zoo.pa.model 
+
+
+ ./models/models_thin_100_samples_250_chains_4.Rdata 
+
+
+ zoo.pa.model 
+
+
+ ./models/models_thin_500_samples_500_chains_4.Rdata 
+
+
+ zoo.pa.model 
+
